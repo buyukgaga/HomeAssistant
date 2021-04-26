@@ -2,7 +2,7 @@ blueprint:
   name: Motion-activated Light in Sunset
   description: Turn on a light when motion is detected.
   domain: automation
-  source_url: https://github.com/buyukgaga/HomeAssistant/motion_light_sunset.yaml
+  source_url: https://github.com/buyukgaga/HomeAssistant/blob/main/motion_light_sunset.yaml
   input:
     motion_entity:
       name: Motion Sensor
