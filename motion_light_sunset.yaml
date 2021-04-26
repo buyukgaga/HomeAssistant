@@ -1,6 +1,6 @@
 blueprint:
-  name: Motion-activated Light in Sunset
-  description: Turn on a light when motion is detected.
+  name: Motion-activated Light to in After Sunset
+  description: Turn on a light when motion is detected to in after sunset.
   domain: automation
   source_url: https://github.com/buyukgaga/HomeAssistant/blob/main/motion_light_sunset.yaml
   input:
